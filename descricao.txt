@@ -1,0 +1,126 @@
+Qual é o objetivo do software?
+
+    Permitir que os usuários façam reservas em hotéis, resorts, passeios e outras atividades que adotam práticas sustentáveis.
+    Integrar sistemas de reservas que incentivem a escolha de opções de transporte e hospedagem ecológicas.
+    Sugerir opções de transporte de baixa pegada de carbono.
+    Incluir seções educativas sobre práticas ecológicas e seu impacto positivo no meio ambiente.
+    Disponibilizar informações sobre projetos de conservação e preservação nas áreas visitadas.
+    Permitir que os usuários deixem avaliações e comentários sobre destinos, hotéis e atividades, destacando práticas sustentáveis.
+    Integrar dados ambientais em tempo real, como informações sobre qualidade do ar, condições climáticas e outras métricas ambientais relevantes.
+    Oferecer um canal de feedback para empresas e destinos turísticos melhorarem suas práticas sustentáveis com base nas opiniões dos usuários.
+
+
+Quais são os principais problemas ou desafios que o software deve resolver?
+
+    Muitos viajantes enfrentam dificuldade em identificar destinos que adotam práticas sustentáveis. O software deve fornecer informações claras e confiáveis sobre a sustentabilidade de diferentes locais.
+    Muitos turistas não têm acesso fácil a informações detalhadas sobre as práticas sustentáveis adotadas por hotéis, empresas de turismo e destinos. O software deve preencher essa lacuna, fornecendo dados
+    transparentes.
+    Reservar acomodações, transporte e atividades sustentáveis pode ser mais complexo do que escolher opções convencionais. O software deve simplificar esse processo, tornando mais fácil para os usuários
+    fazerem escolhas sustentáveis.
+    Muitos turistas podem não estar cientes do impacto ambiental de suas escolhas de viagem. O software pode abordar esse problema educando os usuários sobre práticas sustentáveis e incentivando escolhas
+    responsáveis.
+    O software deve ser capaz de lidar com situações inesperadas, como mudanças climáticas, desastres naturais ou eventos que afetem a viagem. Isso pode exigir integração com fontes de informações de
+    emergência e a capacidade de fornecer orientações alternativas.
+    Ao lidar com informações pessoais dos usuários e dados sensíveis, é essencial implementar medidas robustas de segurança e garantir a conformidade com regulamentações de privacidade.
+
+Quem são os usuários finais do software?
+
+    Viajantes Conscientes:
+
+        Indivíduos que buscam experiências de viagem que se alinhem com práticas sustentáveis e desejam reduzir seu impacto ambiental durante as viagens.
+
+    Agências de Viagem:
+
+        Profissionais que procuram oferecer opções sustentáveis aos seus clientes e desejam acessar informações confiáveis sobre destinos, hotéis e atividades ecologicamente conscientes.
+
+    Empresas de Turismo Sustentável:
+
+        Empresas que se especializam em fornecer serviços turísticos com um foco específico na sustentabilidade, como passeios ecológicos, acomodações verdes, transporte de baixa pegada de carbono, entre outros.
+
+    Hotéis e Resorts Sustentáveis:
+
+        Estabelecimentos hoteleiros que adotam práticas sustentáveis e desejam atrair hóspedes comprometidos com a sustentabilidade.
+
+    Comunidades Locais e Destinos Turísticos:
+
+        Residentes e organizações locais que desejam promover práticas sustentáveis em suas comunidades, atraindo turistas responsáveis.
+
+    Organizações Ambientais:
+
+        Grupos e organizações dedicados à conservação e preservação do meio ambiente, que podem utilizar o software para promover destinos e práticas ecologicamente conscientes.
+
+    Pesquisadores e Acadêmicos:
+
+        Profissionais e acadêmicos interessados em estudar e analisar padrões de turismo sustentável, comportamento do consumidor e impacto ambiental associado às atividades turísticas.
+
+    Entusiastas de Ecoturismo:
+
+        Pessoas que têm um interesse específico em ecoturismo e buscam informações detalhadas sobre destinos e atividades que respeitam o meio ambiente.
+
+    Gestores de Recursos Naturais:
+
+        Indivíduos ou organizações responsáveis pela gestão de áreas naturais e parques nacionais que desejam promover práticas sustentáveis de visitação.
+
+    Governo e Entidades Reguladoras:
+
+        Autoridades governamentais e órgãos reguladores que buscam incentivar e regulamentar práticas de turismo sustentável em nível nacional ou regional.
+
+
+Quais são as principais funcionalidades que o software deve ter?
+3d
+    Pesquisa e Descoberta:
+
+        Capacidade de pesquisar e descobrir destinos, acomodações, atividades e empresas que adotam práticas sustentáveis.
+        Filtros avançados para refinar resultados com base em critérios como pegada de carbono, certificações ecológicas, entre outros.
+
+    Informações Detalhadas:
+
+        Fornecer informações detalhadas sobre as práticas sustentáveis de destinos, hotéis, empresas e atividades.
+        Destacar certificações e selos ecológicos relevantes.
+
+    Reservas Online:
+
+        Permitir que os usuários façam reservas online para acomodações, transporte e atividades sustentáveis.
+        Integrar sistemas de reserva que incentivem a escolha de opções de baixa pegada de carbono.
+
+    Itinerários Personalizados:
+
+        Criar itinerários personalizados com base nas preferências dos usuários, destacando experiências e destinos sustentáveis.
+        Oferecer sugestões de atividades e pontos turísticos com base nas práticas ecológicas.
+
+    Avaliações e Comentários:
+
+        Permitir que os usuários deixem avaliações e comentários sobre destinos, hotéis e atividades, com foco nas práticas sustentáveis.
+        Implementar um sistema de verificação para garantir a autenticidade das avaliações.
+
+    Educação Ambiental:
+
+        Incluir seções educativas sobre práticas ecológicas, impacto ambiental do turismo e dicas para viagens sustentáveis.
+        Oferecer recursos educativos sobre projetos de conservação e preservação.
+
+    Integração de Dados Ambientais:
+
+        Integrar dados ambientais em tempo real, como qualidade do ar, condições climáticas e outras métricas relevantes.
+        Fornecer informações sobre eventos ambientais e sua influência nas atividades turísticas.
+
+    Notificações Personalizadas:
+
+        Enviar notificações aos usuários sobre ofertas especiais de empresas sustentáveis, eventos e oportunidades de viagem com base em suas preferências
+
+    Mapas Interativos:
+
+        Oferecer mapas interativos que destacam locais e atividades sustentáveis em uma região específica.
+        Facilitar a navegação e a orientação durante a viagem.
+
+    Relatórios de Impacto Ambiental:
+
+        Fornecer relatórios de impacto ambiental para destinos, empresas e atividades, mostrando como as escolhas dos usuários contribuem para a sustentabilidade.
+
+    Suporte a Múltiplos Idiomas e Moedas:
+
+        Garantir suporte a múltiplos idiomas e moedas para atrair usuários de diferentes partes do mundo.
+
+    Integração com Redes Sociais:
+
+        Permitir que os usuários compartilhem suas experiências sustentáveis nas redes sociais, promovendo práticas e destinos ecológicos.
+
